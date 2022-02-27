@@ -38,9 +38,9 @@ async def start_(client: Client, message: Message):
 💥 ʜᴇʟʟᴏ, ɪ ᴀᴍ ɴᴏʙɪᴛᴀ sᴜᴘᴇʀ ғᴀsᴛ ᴠᴄ ᴘʟᴀʏᴇʀ
 ʙᴏᴛ ғᴏʀ ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴘs ...
 ┏━━━━━━━━━━━━━━━━━┓
-┣★ ᴄʀᴇᴀᴛᴏʀ : [KULDIP RATHOD](https://t.me/Itz_Venom_xD)
-┣★ ᴜᴘᴅᴀᴛᴇs : [Aʟɪsʜᴀ Sᴇʀᴠᴇʀ](https://t.me/AlishaSupport)
-┣★ sᴜᴘᴘᴏʀᴛ : [Aʟɪsʜᴀ Cʜᴀᴛ](https://t.me/Shayri_Music_Lovers)
+┣★ ᴄʀᴇᴀᴛᴏʀ : [KULDIP RATHOD](https://t.me/AAPLI_YAARI)
+┣★ ᴜᴘᴅᴀᴛᴇs : [NOBITA SUPPORT](https://t.me/Nobita_shizuka_repo)
+┣★ sᴜᴘᴘᴏʀᴛ : [NOBITA CHAT](https://t.me/Shayri_Music_Lovers)
 ┣★ ᴏᴡɴᴇʀ › : [Cᴀɴᴅʏ ǫᴜᴇᴇɴ](https://t.me/candy_626)
 ┗━━━━━━━━━━━━━━━━━┛
 
