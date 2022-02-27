@@ -380,7 +380,7 @@ async def skip(_, message: Message):
 
 
     await message.reply_photo(
-                             photo="https://telegra.ph/file/de138de8fd880becb9cf1.jpg", 
+                             photo="https://te.legra.ph/file/1a85ce935e13e92706907.jpg", 
                              caption=f'**💥 𝐍𝐎𝐁𝐈𝐓𝐀 🔈 𝐌𝐮𝐬𝐢𝐜🤞𝐍𝐨𝐰 🥀\n⏩ 𝐒𝐤𝐢𝐩𝐩𝐞𝐝 🌷 ...**'
    ) 
 
@@ -396,8 +396,8 @@ async def stop(_, message: Message):
 
     await clientbot.pytgcalls.leave_group_call(message.chat.id)
     await message.reply_photo(
-                             photo="https://telegra.ph/file/de138de8fd880becb9cf1.jpg", 
-                             caption="**💥 𝐀𝐥𝐢𝐬𝐡𝐚 🔈 𝐌𝐮𝐬𝐢𝐜🤞𝐍𝐨𝐰 🥀\n❌ 𝐒𝐭𝐨𝐩𝐩𝐞𝐝 🌷 ...**"
+                             photo="https://te.legra.ph/file/1a85ce935e13e92706907.jpg", 
+                             caption="**💥 𝐍𝐎𝐁𝐈𝐓𝐀 🔈 𝐌𝐮𝐬𝐢𝐜🤞𝐍𝐨𝐰 🥀\n❌ 𝐒𝐭𝐨𝐩𝐩𝐞𝐝 🌷 ...**"
     )
 
 
