@@ -414,6 +414,6 @@ async def admincache(client, message: Message):
     )
 
     await message.reply_photo(
-                              photo="https://telegra.ph/file/de138de8fd880becb9cf1.jpg",
-                              caption="**💥 𝐀𝐥𝐢𝐬𝐡𝐚 🔈 𝐌𝐮𝐬𝐢𝐜🤞𝐍𝐨𝐰 🥀\n🔥 𝐑𝐞𝐥𝐨𝐚𝐝𝐞𝐝 🌷 ...**"
+                              photo="https://te.legra.ph/file/1a85ce935e13e92706907.jpg",
+                              caption="**💫𝐍𝐎𝐁𝐈𝐓𝐀 🔈 𝐌𝐮𝐬𝐢𝐜🤞𝐍𝐨𝐰 🥀\n🔥 𝐑𝐞𝐥𝐨𝐚𝐝𝐞𝐝 🌷 ...**"
     )
