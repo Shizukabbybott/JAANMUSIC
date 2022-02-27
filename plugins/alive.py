@@ -40,18 +40,18 @@ async def start_(client: Client, message: Message):
 ┏━━━━━━━━━━━━━━━━━┓
 ┣★ ᴄʀᴇᴀᴛᴏʀ : [KULDIP RATHOD](https://t.me/AAPLI_YAARI)
 ┣★ ᴜᴘᴅᴀᴛᴇs : [NOBITA SUPPORT](https://t.me/Nobita_shizuka_repo)
-┣★ sᴜᴘᴘᴏʀᴛ : [NOBITA CHAT](https://t.me/Shayri_Music_Lovers)
-┣★ ᴏᴡɴᴇʀ › : [Cᴀɴᴅʏ ǫᴜᴇᴇɴ](https://t.me/candy_626)
+┣★ sᴜᴘᴘᴏʀᴛ : [NOBITA CHAT](https://t.me/AAPLI_YAARI)
+┣★ ᴏᴡɴᴇʀ › : [NOBITA_XD](@Nobi_xxd)
 ┗━━━━━━━━━━━━━━━━━┛
 
 💞 ɪғ ʏᴏᴜ ʜᴀᴠᴇ ᴀɴʏ ǫᴜᴇsᴛɪᴏɴs ᴛʜᴇɴ
-ᴅᴍ ᴛᴏ ᴍʏ [ʟᴇɢᴇɴᴅ ᴏᴡɴᴇʀ](https://t.me/Itz_Venom_xD) ...
+ᴅᴍ ᴛᴏ ᴍʏ [ʟᴇɢᴇɴᴅ ᴏᴡɴᴇʀ](https://t.me/AAPLI_YAARI) ...
 ━━━━━━━━━━━━━━━━━━━━━━━━**""",
     reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "➕ ❰ ᴊᴏɪɴ ʜᴇʀᴇ ғᴏʀ ᴜᴘᴅᴀᴛᴇs ❱ ➕", url=f"https://t.me/AlishaSupport")
+                        "➕ ❰ ᴊᴏɪɴ ʜᴇʀᴇ ғᴏʀ ᴜᴘᴅᴀᴛᴇs ❱ ➕", url=f"https://t.me/AAPLI_YAARI")
                 ]
                 
            ]
@@ -59,7 +59,7 @@ async def start_(client: Client, message: Message):
     )
     
     
-@Client.on_message(commandpro(["/start", "/alive", "Candy"]) & filters.group & ~filters.edited)
+@Client.on_message(commandpro(["/start", "/alive", "NOBITA"]) & filters.group & ~filters.edited)
 async def start(client: Client, message: Message):
     await message.reply_photo(
         photo=f"https://telegra.ph/file/de138de8fd880becb9cf1.jpg",
