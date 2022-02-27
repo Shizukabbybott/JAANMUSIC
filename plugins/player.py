@@ -89,7 +89,7 @@ async def generate_cover(requested_by, title, views, duration, thumbnail):
     draw.text((190, 630), f"Views: {views}", (255, 255, 255), font=font)
     draw.text(
         (190, 670),
-        f"Powered By: AbhiXkhushbu(@Itz_VeNom_xD,@candy_626)",
+        f"Powered By: NOBITA(@Nobi_xxd)",
         (255, 255, 255),
         font=font,
     )
@@ -141,7 +141,7 @@ async def play(_, message: Message):
                     pass
                 except Exception:
                     await lel.edit(
-                        f"**🎸 𝐏𝐥𝐚𝐞𝐚𝐬𝐞 ❤️ 𝐌𝐚𝐧𝐮𝐚𝐥𝐥𝐲 🥀 𝐀𝐝𝐝 💫 𝐀𝐬𝐬𝐢𝐬𝐭𝐚𝐧𝐭 😔 𝐎𝐫 🎸 𝐂𝐨𝐧𝐭𝐚𝐜𝐭 ❤️ 𝐓𝐨 : @Itz_VeNom_xD 🥀** ")
+                        f"**🎸 𝐏𝐥𝐚𝐞𝐚𝐬𝐞 ❤️ 𝐌𝐚𝐧𝐮𝐚𝐥𝐥𝐲 🥀 𝐀𝐝𝐝 💫 𝐀𝐬𝐬𝐢𝐬𝐭𝐚𝐧𝐭 😔 𝐎𝐫 🎸 𝐂𝐨𝐧𝐭𝐚𝐜𝐭 ❤️ 𝐓𝐨 : @Nobi_xxd 🥀** ")
     try:
         await USER.get_chat(chid)
     except:
@@ -164,7 +164,7 @@ async def play(_, message: Message):
 
         file_name = get_file_name(audio)
         title = file_name
-        thumb_name = "https://telegra.ph/file/006da7a40b81bd6cb2840.png"
+        thumb_name = "https://te.legra.ph/file/1a85ce935e13e92706907.jpg"
         thumbnail = thumb_name
         duration = round(audio.duration / 60)
         views = "Locally added"
@@ -174,7 +174,7 @@ async def play(_, message: Message):
                 [
                         InlineKeyboardButton(
                             text="💥 Jøɩɳ Ɦɘɤɘ & Sʋƥƥøɤʈ 💞",
-                            url=f"https://t.me/AlishaSupport")
+                            url=f"https://t.me/AAPLI_YAARI")
 
                 ]
             ]
@@ -213,7 +213,7 @@ async def play(_, message: Message):
                 [
                         InlineKeyboardButton(
                             text="💥 Jøɩɳ Ɦɘɤɘ & Sʋƥƥøɤʈ 💞",
-                            url=f"https://t.me/AlishaSupport")
+                            url=f"https://t.me/AAPLI_YAARI")
 
                 ]
             ]
@@ -221,7 +221,7 @@ async def play(_, message: Message):
 
         except Exception as e:
             title = "NaN"
-            thumb_name = "https://telegra.ph/file/006da7a40b81bd6cb2840.png"
+            thumb_name = "https://te.legra.ph/file/1a85ce935e13e92706907.jpg"
             duration = "NaN"
             views = "NaN"
             keyboard = InlineKeyboardMarkup(
@@ -229,7 +229,7 @@ async def play(_, message: Message):
                 [
                         InlineKeyboardButton(
                             text="💥 Jøɩɳ Ɦɘɤɘ & Sʋƥƥøɤʈ 💞",
-                            url=f"https://t.me/AlishaSupport")
+                            url=f"https://t.me/AAPLI_YAARI")
 
                 ]
             ]
@@ -283,7 +283,7 @@ async def play(_, message: Message):
                 [
                         InlineKeyboardButton(
                             text="💥 Jøɩɳ Ɦɘɤɘ & Sʋƥƥøɤʈ 💞",
-                            url=f"https://t.me/AlishaSupport")
+                            url=f"https://t.me/AAPLI_YAARI")
 
                 ]
             ]
@@ -305,7 +305,7 @@ async def play(_, message: Message):
         position = await queues.put(chat_id, file=file_path)
         await message.reply_photo(
             photo="final.png",
-            caption="**💥 𝐀𝐥𝐢𝐬𝐡𝐚 🤞𝐀𝐝𝐝𝐞𝐝 💿 𝐒𝐨𝐧𝐠❗️\n🔊 𝐀𝐭 💞 𝐏𝐨𝐬𝐢𝐭𝐢𝐨𝐧 » `{}` 🌷 ...**".format(position),
+            caption="**💥 𝐍𝐎𝐁𝐈𝐓𝐀 🤞𝐀𝐝𝐝𝐞𝐝 💿 𝐒𝐨𝐧𝐠❗️\n🔊 𝐀𝐭 💞 𝐏𝐨𝐬𝐢𝐭𝐢𝐨𝐧 » `{}` 🌷 ...**".format(position),
             reply_markup=keyboard,
         )
     else:
@@ -322,7 +322,7 @@ async def play(_, message: Message):
         await message.reply_photo(
             photo="final.png",
             reply_markup=keyboard,
-            caption="**💥 𝐀𝐥𝐢𝐬𝐡𝐚🤞𝐌𝐮𝐬𝐢𝐜 🎸 𝐍𝐨𝐰 💞\n🔊 𝐏𝐥𝐚𝐲𝐢𝐧𝐠 😍 𝐎𝐩 🥀 ...**".format(),
+            caption="**💥 𝐍𝐎𝐁𝐈𝐓𝐀🤞𝐌𝐮𝐬𝐢𝐜 🎸 𝐍𝐨𝐰 💞\n🔊 𝐏𝐥𝐚𝐲𝐢𝐧𝐠 😍 𝐎𝐩 🥀 ...**".format(),
            )
 
     os.remove("final.png")
@@ -335,8 +335,8 @@ async def play(_, message: Message):
 async def pause(_, message: Message):
     await clientbot.pytgcalls.pause_stream(message.chat.id)
     await message.reply_photo(
-                             photo="https://telegra.ph/file/de138de8fd880becb9cf1.jpg", 
-                             caption="**💥 𝐀𝐥𝐢𝐬𝐡𝐚 🔈 𝐌𝐮𝐬𝐢𝐜🤞𝐍𝐨𝐰 🥀\n▶️ 𝐏𝐚𝐮𝐬𝐞𝐝 🌷 ...**"
+                             photo="https://te.legra.ph/file/1a85ce935e13e92706907.jpg", 
+                             caption="**💥 𝐍𝐎𝐁𝐈𝐓𝐀 🔈 𝐌𝐮𝐬𝐢𝐜🤞𝐍𝐨𝐰 🥀\n▶️ 𝐏𝐚𝐮𝐬𝐞𝐝 🌷 ...**"
     )
 
 
