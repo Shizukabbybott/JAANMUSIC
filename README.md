@@ -13,7 +13,7 @@
 
 ### Deploy To Heroku
 
-[![Deploy+On+Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/CandyMusic/AlishaMusicPlayer)
+[![Deploy+On+Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/kuldiprathod/AlishaMusicPlayer)
 
 
 
@@ -25,4 +25,4 @@
 
 ### Copy Pasters You Can Copy This But Must Give Credits ...
 
-#### Main Developer = [Abhimanyu Singh Ranawat](https://t.me/Itz_Venom_xD)
+#### Main Developer = [NOBITA_XD](https://t.me/AAPLI_YAARI)
