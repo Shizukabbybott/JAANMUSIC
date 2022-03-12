@@ -1,7 +1,7 @@
 ### Best Smart Voice Chat Music Bot For Telegram Groups ...
 
 
-<p align="center"><a href="https://t.me/AAPLI_YAARI"><img src="https://te.legra.ph/file/1a85ce935e13e92706907.jpg"></a></p>
+<p align="center"><a href="https://t.me/ravanbots"><img src="https://telegra.ph/file/fce63aeaa7f6e1e7a7b25.jpg"></a></p>
 
 
 
@@ -25,4 +25,4 @@
 
 ### Copy Pasters You Can Copy This But Must Give Credits ...
 
-#### Main Developer = [NOBITA_XD](https://t.me/AAPLI_YAARI)
+#### Main Developer = [ASU MUSIC](https://t.me/ravanbots)
